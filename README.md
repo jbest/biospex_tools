@@ -1,5 +1,5 @@
 # biospex_tools
-A collection of tools for working with Biospex (https://biospex.org/) data
+A collection of tools for working with Biospex (https://biospex.org/ , https://github.com/iDigBio/Biospex) data
 
 **biospex_expander** is a Jupyter notebook that allows you to load a Biospex export into a pandas dataframe and expand the JSON values for the 'occurrence' field into multiple columns.
 
